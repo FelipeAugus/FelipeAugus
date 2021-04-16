@@ -30,10 +30,10 @@ TECNOLOGIAS
 <h2 align="center">Você pode me encontrar em :alien:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/felipe-augusto-souza-aa76831b1/">
+  <a href="https://www.linkedin.com/in/felipe-augusto-souza-aa76831b1/" target="_blank">
     <img src="https://img.shields.io/badge/%20-LinkedIn-blue" height="30">
   </a>
-  <a href="https://www.instagram.com/a_felip3/">
+  <a href="https://www.instagram.com/a_felip3/" target="_blank">
     <img src="https://img.shields.io/badge/%20-Instagram-orange" height="30">
   </a>
 </p>
