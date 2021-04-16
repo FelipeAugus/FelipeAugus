@@ -36,5 +36,8 @@ TECNOLOGIAS
   <a href="https://www.instagram.com/a_felip3" target="_blank">
     <img src="https://img.shields.io/badge/%20-Instagram-orange" height="30">
   </a>
+  <a href="#augusto.felipao22@gmail.com">
+    <img src="https://img.shields.io/badge/%20-augusto.felipao22@gmail.com-red" height="30">
+  </a>
 </p>
 ---
