@@ -14,10 +14,6 @@ TECNOLOGIAS
 <!-- GITUB -->
 <h2 align="center">Estatísticas Github :bar_chart:</h2>
 
-<h4 align="center">Contagem de visitas :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/%7BFelipeAugus%7D/count.svg" alt="FelipeAugus :: Visitor's Count" /></p>
-
 <h4 align="center">Linguagens mais utilizadas :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAugus&langs_count=10&theme=algolia&layout=compact" alt="FelipeAugus :: Top Langs" /></p>
