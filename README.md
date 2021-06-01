@@ -13,14 +13,19 @@ TECNOLOGIAS
 
 <!-- GITUB -->
 <h2 align="center">Estatísticas Github :bar_chart:</h2>
+<section style="max-width: 1000px; display: flex; flex-wrap: wrap; margin: 0 auto;">
+  <div style="flex: 1 1 450px; padding: 10px; margin: 5px;">
+    <h4 align="center">Linguagens mais utilizadas :tongue:</h4>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAugus&langs_count=10&theme=algolia&layout=compact" alt="FelipeAugus :: Top Langs" /></p>
+  </div>
+  <div style="flex: 1 1 450px; padding: 10px; margin: 5px;">
+    <h4 align="center">Estatísticas do meu perfil :nerd_face:</h4>
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FelipeAugus&show_icons=true&theme=algolia" alt="FelipeAugus :: Profile Stats" /></p>
+  </div>
+</section>
 
-<h4 align="center">Linguagens mais utilizadas :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAugus&langs_count=10&theme=algolia&layout=compact" alt="FelipeAugus :: Top Langs" /></p>
-
-<h4 align="center">Estatísticas do meu perfil :nerd_face:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=FelipeAugus&show_icons=true&theme=algolia" alt="FelipeAugus :: Profile Stats" /></p>
+<!-- COBRINHA -->
+![Snake animation](https://github.com/FelipeAugus/FelipeAugus/blob/output/github-contribution-grid-snake.svg)
 
 <!-- REDES SOCIAIS --> 
 <h2 align="center">Você pode me encontrar em :alien:</h2>
